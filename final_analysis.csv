@@ -1,0 +1,6 @@
+Date,Crop,Harvested_Quantity,Marketable_Quantity,Temperature,Humidity,Storage_Days,Transportation_Hours,Storage_Type,Handling_Method,Pest_Level,Damage_Level,Loss_Cause,Predicted_Loss_Percentage,Loss_Level
+2026-01-05,Tomato,1000,820,30,75,8,5,Normal,Careful,2,3,Spoilage,17.67,Medium Loss
+2026-01-06,Tomato,1200,900,32,80,10,6,Normal,Rough,3,4,Spoilage,22.55,High Loss
+2026-01-07,Potato,1500,1380,24,65,15,4,Cold,Careful,1,2,Storage,10.54,Medium Loss
+2026-01-08,Banana,800,640,29,78,6,3,Normal,Careful,2,4,Over-ripening,18.63,Medium Loss
+2026-01-09,Rice,2000,1880,28,60,20,8,Warehouse,Careful,1,2,Transportation,8.73,Low Loss
